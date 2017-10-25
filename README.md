@@ -1,1 +1,7 @@
-This is a Hello_World program in java
+class Hello
+{
+public static void main(String s[])
+{
+System.out.print("hello world");
+}
+}
